@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: Lenguaje m; python
+type: software
+authors:
+  - given-names: 'Luis Fabián '
+    family-names: 'García Sánchez '
+    email: l22212254@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/LuisFabianGarciaSanchez/Practica3MSF'
+keywords:
+  - Sistema musculoesqueletico
+  - Controlador PI
+  - Control
+  - Caso
+  - 'Propiedades mecánicas '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-30'
