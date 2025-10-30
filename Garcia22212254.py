@@ -1,5 +1,5 @@
 """
-Práctica 4: Sistema musculoesqueletico
+Práctica 3: Sistema musculoesqueletico
 
 Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
 Tecnológico Nacional de México [TecNM - Tijuana]
@@ -110,4 +110,5 @@ fg2.set_size_inches(w,h)
 fg2.tight_layout()
 fg2.savefig('sistema musculoesqueletico Lazo cerrado python.png',dpi=600,bbox_inches='tight')
 fg2.savefig('sistema musculoesqueletico Lazo cerrado python.pdf')
+
 
